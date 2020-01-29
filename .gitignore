@@ -1,6 +1,8 @@
 dist/
 .idea/
+public/media/
 node_modules/
 *.iml
+*.sqlite
 config.*
 !config.template.js
