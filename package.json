@@ -16,7 +16,7 @@
     "@types/koa-static": "^4.0.1",
     "@types/node": "^13.5.0",
     "@types/twitter": "^1.7.0",
-    "apollo-server-koa": "^2.9.16",
+    "apollo-server-koa": "^2.14.2",
     "axios": "^0.19.2",
     "graphql": "^14.6.0",
     "graphql-iso-date": "^3.6.1",
